@@ -1,0 +1,26 @@
+form input {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 6px;
+    border: solid 1px #ddd;
+    border-radius: 3px;
+}
+
+form {
+    width: 50%;
+    margin: 10% 25%;
+}
+
+form input[type=submit] {
+    background: #4CAF50;
+    padding: 10px;
+    color: #fff;
+    border: solid 1px #ccc;
+}
+
+.container {
+    background: #f9f9f9;
+    padding: 4% 10% 4% 10%;
+    border-radius: 5px;
+    border: solid 1px #337ab7;
+}

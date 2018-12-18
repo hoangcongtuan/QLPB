@@ -1,0 +1,18 @@
+ul {
+    list-style: none;
+}
+.content{
+    width: 60%;
+    margin: 10px 20%;
+}
+input[type=submit]{
+    padding: 6px 12px;
+}
+#timer{
+    position: fixed;
+    top: 300px;
+    left: 30px;
+    background-color: #4CAF50;
+    padding: 6px 12px;
+    color: #fff;
+}

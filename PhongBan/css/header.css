@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    padding: 20px 0 40px 0;
+    box-shadow: rgba(0, 0, 0, 0.14) -3px 2px 7px, rgba(0, 0, 0, 0.28) 0 4px 8px;
+}
+
+header > a {
+    height: 100%;
+    padding: 10px 15px !important;
+    float: right;
+}
+
+.btn {
+    float: right;
+    margin: 0 2px;
+    border: solid 1px #30f435;
+    border-radius: 3px;
+}
+
+.search {
+    outline: none;
+    border-radius: 999px 0 0 999px;
+    border: solid 1px #5bc0de;
+    flex: 1;
+}
+
+.search-frame {
+    float: right;
+    width: 30%;
+    border-radius: 1000px;
+    display: flex;
+}
+
+.addon {
+    outline: none;
+    border-radius: 0 999px 999px 0;
+}
+
+input {
+    padding: 6px 12px;
+    border: solid 1px #ccc;
+}
+
+input[type="button"] {
+    background: #2de532;
+    color: #fff;
+}
+
+.search + input {
+    width: 8%;
+    color: #fff;
+    cursor: pointer;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    margin-right: 10px;
+}
+
+.nav-button {
+    float: right;
+    padding: 6px 10px;
+    margin: 0 10px;
+    border-radius: 4px;
+    border: solid 1px #dec5d5;
+    cursor: pointer;
+    user-select: none;
+}
+
+.home{
+    float: left;
+    font-size: 20px;
+    margin-left: 10%;
+}

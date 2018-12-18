@@ -1,0 +1,8 @@
+.container {
+    background: #f9f9f9;
+    padding: 4% 10% 4% 10%;
+    margin: 10% 30%;
+    border-radius: 5px;
+    border: solid 1px #337ab7;
+    text-align: center;
+}

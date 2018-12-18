@@ -1,0 +1,38 @@
+.update input {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 6px;
+    border: solid 1px #ddd;
+    border-radius: 3px;
+}
+
+.update, .updateQs {
+    width: 50%;
+    margin: 10% 25%;
+}
+
+.updateQs input {
+    margin: 6px;
+}
+
+.update input[type=submit] {
+    background: #4CAF50;
+    padding: 10px;
+    color: #fff;
+    border: solid 1px #ccc;
+}
+
+div.container {
+    background: #f9f9f9;
+    padding: 4% 10% 4% 10%;
+    border-radius: 5px;
+    border: solid 1px #337ab7;
+}
+
+textarea {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+}
